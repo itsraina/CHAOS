@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/appleboy/gin-jwt/v2 v2.6.4
 	github.com/gin-contrib/multitemplate v0.0.0-20200514145638-4955c9347179
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-playground/validator/v10 v10.4.1
 	github.com/golang-jwt/jwt/v4 v4.1.0
 	github.com/google/uuid v1.1.1
@@ -14,7 +14,6 @@ require (
 	github.com/lib/pq v1.10.2
 	github.com/sirupsen/logrus v1.5.0
 	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58
 	gorm.io/driver/postgres v1.3.10
 	gorm.io/driver/sqlite v1.3.6
 	gorm.io/gorm v1.23.10
